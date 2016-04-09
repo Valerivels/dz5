@@ -153,11 +153,13 @@ body{
   padding: 25px;
   text-align: center;
 }
-
+.info{
+  margin:0 auto;
+  width: 256px;
+}
 .info input {
   position: relative;
   display: block;
-  margin: 0 auto;
   width: 256px;
   height: 34px;
   background: linear-gradient(to bottom, rgba(18,17,17,1) 0%, rgba(18,18,18,1) 38%, rgba(23,23,23,1) 100%);
